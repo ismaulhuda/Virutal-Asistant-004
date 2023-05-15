@@ -1,12 +1,12 @@
 # SimpleVirtualAssistant
-A simple virtual asistant coded in Python. I just wanted to know how it works.
+A simple virtual asistant coded in Python.
 
 This virtual asistant can:
 
--Tell you good morning/afternoon/night according to time.
+- Tell you good morning/afternoon/night according to time.
 
--Search something on Wikipedia, and tell you the results.
+- Search something on Wikipedia, and tell you the results.
 
--Open Youtube or Google just by saying "open google/youtube".
+- Open Youtube, Google, Google Scholar, Instagram, Facebook and Twitter.
 
--Tell you the time.
+- Tell you the time.
